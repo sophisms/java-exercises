@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;EmailFormatException.java&apos; to &apos;UnitTestProject/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;POO2&apos;&#x0D;&#x0A;- Destination element: &apos;UnitTestProject/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;EmailFormatException.java&apos;" description="Copy compilation unit" destination="=UnitTestProject/src&lt;" element1="/src&lt;{EmailFormatException.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1644856066793" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,14 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+
+class testCalculator {
+
+	@Test
+	public void testSuma() {
+		Calculator c = new Calculator();
+		Assertions.assertEquals(4, c.sum(2,2));
+	}//testSuma
+
+}//class testCalculator
